@@ -1,0 +1,76 @@
+{
+  "stories": [
+    {
+      "id": "d24d0620-ca84-4efa-9569-56a34c4d9969",
+      "title": "The Lantern of Dreams",
+      "body": "In the city of Evernight, dreams can escape the mind and take physical form. A young dream-weaver named Elara discovers a broken Lantern of Dreams, which allows nightmares to roam free. With her magical companion, a luminous firefly named Lume, Elara must journey through the dreamscape to capture the runaway nightmares. Along the way, she learns the delicate balance between hope and fear, and the power of imagination.",
+      "authorId": "u1",
+      "genre": "Fantasy",
+      "likes": 1,
+      "createdAt": "2025-10-27T12:03:36.306Z"
+    },
+    {
+      "id": "5783fbd5-5ec9-474a-99b4-624dfbaf31b7",
+      "title": "The Dragon’s Song",
+      "body": "In a village cursed by eternal winter, a boy named Finn hears a mysterious melody that no one else can hear. Following the song, he discovers a wounded dragon trapped under ice. The dragon’s song has the power to melt the frozen curse, but only if Finn can help it regain its lost strength. Together, they face frost giants, enchanted forests, and a treacherous frost witch to bring warmth back to the land.",
+      "authorId": "u1",
+      "genre": "Fantasy",
+      "likes": 0,
+      "createdAt": "2025-10-27T12:03:16.915Z"
+    },
+    {
+      "id": "7ea10c4c-40de-478a-bb63-54162c212795",
+      "title": "The Crystal of Time",
+      "body": "A young apprentice named Mira stumbles upon the Crystal of Time, a gem that can bend the flow of history. When an evil warlock seeks to rewrite the past for his own gain, Mira must journey through ancient lands, meeting legendary creatures and solving magical puzzles. With every choice she makes, the future shifts, and only Mira’s heart and intelligence can restore balance to time.",
+      "authorId": "u1",
+      "genre": "Fantasy",
+      "likes": 1,
+      "createdAt": "2025-10-27T12:02:54.720Z"
+    },
+    {
+      "id": "5606de31-cc46-48b0-bce3-6e4057b8a643",
+      "title": "The Skybound Kingdom",
+      "body": "In a kingdom floating among the clouds, Prince Kael dreams of exploring the lands below. One day, he discovers a hidden portal that allows him to travel between sky and earth. With the help of a winged horse named Nimbus and a clever cloud spirit, Kael uncovers a plot by a dark sorcerer to bring the floating kingdom crashing down. Kael must combine courage and wit to protect both realms.",
+      "authorId": "u1",
+      "genre": "Fantasy",
+      "likes": 3,
+      "createdAt": "2025-10-27T12:02:34.315Z"
+    },
+    {
+      "id": "8afdb50a-d71e-483a-a7cb-f97d7629006a",
+      "title": "The Whispering Forest",
+      "body": "Deep in the heart of the Whispering Forest, a young elf named Liora discovers a hidden grove where the trees speak in riddles. When an ancient shadow threatens the forest, Liora must solve the riddles to awaken the Guardian Tree, a magical entity capable of saving her homeland. Along the way, she befriends a talking fox and a mischievous sprite who teach her the true meaning of courage and friendship.",
+      "authorId": "u1",
+      "genre": "Fantasy",
+      "likes": 2,
+      "createdAt": "2025-10-27T12:02:10.542Z"
+    },
+    {
+      "id": "db7f3772-800c-41cc-8cd7-a84b8776e96c",
+      "title": "Starlight Promise",
+      "body": "Lena, an aspiring astronomer, meets Ethan at a stargazing event in her city. They bond over their shared love for the night sky, and a deep friendship slowly turns into love. But Ethan has to move to another country for work, leaving Lena torn between pursuing her dreams and holding onto their relationship. They promise to reunite under the same constellation a year later. Through letters, late-night calls, and personal growth, both face challenges, heartbreak, and self-discovery, ultimately learning that love sometimes means trusting the stars and letting go.",
+      "authorId": "u1",
+      "genre": "Romance / Drama",
+      "likes": 6,
+      "createdAt": "2025-10-19T05:08:38.513Z"
+    },
+    {
+      "id": "648135d2-1ae5-462d-b469-cef43bbc4a08",
+      "title": "The Last Horizon",
+      "body": "In the year 2147, Earth is on the brink of collapse due to climate disasters and overpopulation. Captain Rhea and her team are sent on a mission aboard the starship Odyssey to find a new habitable planet. Along the way, they encounter alien lifeforms, cosmic storms, and mysterious signals from an unknown civilization. As tensions rise among the crew and resources dwindle, Rhea must make impossible choices to ensure the survival of humanity. In the end, they discover a planet that could sustain life—but it comes with its own secrets that challenge their understanding of reality.",
+      "authorId": "u1",
+      "genre": "Sci-Fi / Adventure",
+      "likes": 1,
+      "createdAt": "2025-10-19T05:01:46.063Z"
+    }
+  ],
+  "comments": [],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Meghana M",
+      "bio": "Student",
+      "avatarUrl": ""
+    }
+  ]
+}
